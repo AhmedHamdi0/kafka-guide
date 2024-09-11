@@ -1,0 +1,7 @@
+.gradle
+.idea
+kafka-basics/out
+kafka-basics/build
+kafka-connect/out
+kafka-consumer-opensearch/out
+kafka-producer-wikimedia/out
